@@ -1,5 +1,5 @@
 
-;Ibrahim AKSAN - 203 608 59 039
+;Ibrahim AKSAN
 
 
 ; port adresleri
