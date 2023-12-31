@@ -81,11 +81,7 @@ topla:
     ; carpim sonucunda son 32-48 ve 48-64 bitlik kisimlarina eklememizin sebebi surekli sonucu donduruyor olusumuz.
     ;Yani aslinda ekledigimiz degerler donerek 0-32 bit arasina yerlesecekler.
 
-    
-
-bitir:
-    
-    
+bitir: 
     in al,PORTA
     
     cmp al,01h
